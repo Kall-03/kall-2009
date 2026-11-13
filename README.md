@@ -87,17 +87,18 @@ into real digital projects.
 </table>
 
 
-<h2 align="center">📊 GitHub Statistics</h2>
+
+<h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kall-12&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=kall-12&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kall-12&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kall-12&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kall-12&theme=tokyo-night&hide_border=true&area=true" />
+<img width="90%" src="https://streak-stats.demolab.com?user=kall-12&theme=tokyonight&hide_border=true" />
 
 </div>
 
