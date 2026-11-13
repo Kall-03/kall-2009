@@ -92,9 +92,9 @@ into real digital projects.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?kall-12=kall-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?kall-12=kall-12&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img width="90%" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
 
